@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83bd2087-0f16-42dd-a430-ea64d2bf5d51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week02/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week02/FibonacciLastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week02/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week02/LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week03/Change.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course-era/week02/LCM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Course-era/week02/LCM.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,84 +45,44 @@
     <session id="-1994760440">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.52" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="305" />
+          <entry key="java" value="513" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="305" />
+          <entry key="JAVA" value="513" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AlgorithmsAndDs/week01/MaxPairwiseProduct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#getMaxPairwiseProduct#0;class#MaxPairwiseProduct#0" />
-                <element signature="method#main#0;class#MaxPairwiseProduct#0" />
-                <element signature="class#FastScanner#0;class#MaxPairwiseProduct#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week02/Fibonacci.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week02/FibonacciLastDigit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="16" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week02/GCD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/week02/LCM.java">
+        <entry file="file://$PROJECT_DIR$/src/week03/Change.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            <state relative-caret-position="204">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -156,6 +114,8 @@
         <option value="$PROJECT_DIR$/src/week02/FibonacciLastDigit.java" />
         <option value="$PROJECT_DIR$/src/week02/GCD.java" />
         <option value="$PROJECT_DIR$/src/week02/LCM.java" />
+        <option value="$PROJECT_DIR$/src/week02/FibonacciHuge.java" />
+        <option value="$PROJECT_DIR$/src/week03/Change.java" />
       </list>
     </option>
   </component>
@@ -191,12 +151,6 @@
               <item name="Course-era" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Course-era" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Course-era" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="week02" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -206,7 +160,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576254556124" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576911213007" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -227,9 +181,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LCM">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week02.Fibonacci" />
+  <component name="RunManager" selected="Application.Change">
+    <configuration name="Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week03.Change" />
+      <module name="Course-era" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciHuge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week02.FibonacciHuge" />
       <module name="Course-era" />
       <extension name="coverage">
         <pattern>
@@ -280,33 +247,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxPairwiseProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgorithmsAndDs.week01.MaxPairwiseProduct" />
-      <module name="Course-era" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AlgorithmsAndDs.week01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.MaxPairwiseProduct" />
-      <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.FibonacciLastDigit" />
       <item itemvalue="Application.GCD" />
       <item itemvalue="Application.LCM" />
+      <item itemvalue="Application.FibonacciHuge" />
+      <item itemvalue="Application.Change" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Change" />
+        <item itemvalue="Application.FibonacciHuge" />
         <item itemvalue="Application.LCM" />
         <item itemvalue="Application.GCD" />
         <item itemvalue="Application.FibonacciLastDigit" />
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.MaxPairwiseProduct" />
       </list>
     </recent_temporary>
   </component>
@@ -323,18 +277,20 @@
       <workItem from="1575914970040" duration="932000" />
       <workItem from="1575918317982" duration="184000" />
       <workItem from="1576078331092" duration="6296000" />
-      <workItem from="1576514111044" duration="532000" />
+      <workItem from="1576514111044" duration="2710000" />
+      <workItem from="1576624486919" duration="608000" />
+      <workItem from="1576629449801" duration="4075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7944000" />
+    <option name="totallyTimeSpent" value="14805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26136363" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27045456" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -350,7 +306,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5652174" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5638126" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -396,6 +352,18 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week03/Change.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week03/Change.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -429,19 +397,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AlgorithmsAndDs/week01/MaxPairwiseProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#getMaxPairwiseProduct#0;class#MaxPairwiseProduct#0" />
-            <element signature="method#main#0;class#MaxPairwiseProduct#0" />
-            <element signature="class#FastScanner#0;class#MaxPairwiseProduct#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week02/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -465,8 +420,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/week02/LCM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
+        <state relative-caret-position="221">
           <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week02/FibonacciHuge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AlgorithmsAndDs/week01/MaxPairwiseProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getMaxPairwiseProduct#0;class#MaxPairwiseProduct#0" />
+            <element signature="method#main#0;class#MaxPairwiseProduct#0" />
+            <element signature="class#FastScanner#0;class#MaxPairwiseProduct#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week03/Change.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
