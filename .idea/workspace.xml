@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83bd2087-0f16-42dd-a430-ea64d2bf5d51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week03/Change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week03/FractionalKnapsack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course-era/week02/LCM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Course-era/week02/LCM.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,33 +55,42 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="513" />
+          <entry key="java" value="1134" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="513" />
+          <entry key="JAVA" value="1134" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/week03/Change.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="306">
+              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/week03/FractionalKnapsack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -116,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/week02/LCM.java" />
         <option value="$PROJECT_DIR$/src/week02/FibonacciHuge.java" />
         <option value="$PROJECT_DIR$/src/week03/Change.java" />
+        <option value="$PROJECT_DIR$/src/week03/FractionalKnapsack.java" />
       </list>
     </option>
   </component>
@@ -151,6 +160,12 @@
               <item name="Course-era" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Course-era" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Course-era" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="week03" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -160,7 +175,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576911213007" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576915573529" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -181,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Change">
+  <component name="RunManager" selected="Application.FractionalKnapsack">
     <configuration name="Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week03.Change" />
       <module name="Course-era" />
@@ -208,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciLastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week02.FibonacciLastDigit" />
+    <configuration name="FractionalKnapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week03.FractionalKnapsack" />
       <module name="Course-era" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week02.*" />
+          <option name="PATTERN" value="week03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,19 +263,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FibonacciLastDigit" />
       <item itemvalue="Application.GCD" />
       <item itemvalue="Application.LCM" />
       <item itemvalue="Application.FibonacciHuge" />
       <item itemvalue="Application.Change" />
+      <item itemvalue="Application.FractionalKnapsack" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FractionalKnapsack" />
         <item itemvalue="Application.Change" />
         <item itemvalue="Application.FibonacciHuge" />
         <item itemvalue="Application.LCM" />
         <item itemvalue="Application.GCD" />
-        <item itemvalue="Application.FibonacciLastDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -279,18 +294,18 @@
       <workItem from="1576078331092" duration="6296000" />
       <workItem from="1576514111044" duration="2710000" />
       <workItem from="1576624486919" duration="608000" />
-      <workItem from="1576629449801" duration="4075000" />
+      <workItem from="1576629449801" duration="7756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14805000" />
+    <option name="totallyTimeSpent" value="18486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27045456" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10075758" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -299,8 +314,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32956383" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990307" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39095315" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4717286" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -364,11 +379,39 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week03/FractionalKnapsack.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week03/FractionalKnapsack.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week03/FractionalKnapsack.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>funcPair.getValue().get(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>unitWeightPerVal*(funcPair.getValue().get(0))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>456 * b</expression-string>
         <language-id>JAVA</language-id>
@@ -447,8 +490,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/week03/Change.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="306">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week03/FractionalKnapsack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
