@@ -15,13 +15,21 @@ public class CarFueling {
             maxPossibleDistanceInOneFill = actualDistancePossible + tank;
 
             actualDistancePossible = maxPossibleDistanceInOneFill;
+            if(actualDistancePossible >= dist)
+            {
+                return stopCnt;
+            }
 
                 for(i = stopIndex ; i <stops.length ; i++)
                 {
-                    if(stops[i] > actualDistancePossible)
+                    if( i>0 && stops[i] > actualDistancePossible)
                     {
                         stopIndex = i - 1;
                         if(indexExplored.contains(stopIndex))
+                        {
+                            return -1;
+                        }
+                        if(actualDistancePossible < stops[stopIndex])
                         {
                             return -1;
                         }
