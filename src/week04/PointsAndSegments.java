@@ -1,12 +1,30 @@
 package week04;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class PointsAndSegments {
 
+    static class Segment{
+        int x,y;
+        public Segment(int x , int y)
+        {
+            this.x = x;
+            this.y = y;
+        }
+
+    }
     private static int[] fastCountSegments(int[] starts, int[] ends, int[] points) {
         int[] cnt = new int[points.length];
-        //write your code here
+        TreeSet<Segment> pointsSortedByX = new TreeSet<>(new OrderX());
+        for (int i = 0; i < starts.length; i++) {
+            pointsSortedByX.add(new Segment(starts[i], ends[i]));
+        }
+        for (int i = 0; i < points.length; i++) {
+            TreeSet<Segment> pointsSortedByY = new TreeSet<>(new OrderY());
+            Segment search = new Segment(points[i], points[i]);
+            pointsSortedByY.addAll(pointsSortedByX.headSet(search, true));
+            cnt[i] = pointsSortedByY.tailSet(search, true).size();
+        }
         return cnt;
     }
 
@@ -38,9 +56,22 @@ public class PointsAndSegments {
             points[i] = scanner.nextInt();
         }
         //use fastCountSegments
-        int[] cnt = naiveCountSegments(starts, ends, points);
+        int[] cnt = fastCountSegments(starts, ends, points);
         for (int x : cnt) {
             System.out.print(x + " ");
         }
     }
+
+    private static class OrderX implements Comparator<Segment> {
+        public int compare(Segment p, Segment q) {
+            return Integer.compare(p.x, q.x);
+        }
+    }
+
+    private static class OrderY implements Comparator<Segment> {
+        public int compare(Segment p, Segment q) {
+            return Integer.compare(p.y, q.y);
+        }
+    }
+
 }
