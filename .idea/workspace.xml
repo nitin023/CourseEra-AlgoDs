@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83bd2087-0f16-42dd-a430-ea64d2bf5d51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/week05/ChangeDP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course-era/week04/PointsAndSegments.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Course-era/week04/PointsAndSegments.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week04/Closest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week04/Closest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week04/PointsAndSegments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week04/PointsAndSegments.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,122 +61,39 @@
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.60" value="2" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="22" />
+          <entry key="java" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="22" />
+          <entry key="JAVA" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6030" />
+          <entry key="java" value="6537" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6030" />
+          <entry key="JAVA" value="6537" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week04/BinarySearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week04/MajorityElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week04/PointsAndSegments.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="22" column="44" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="44" />
-              <folding>
-                <element signature="e#2119#2120#0" expanded="true" />
-                <element signature="e#2175#2176#0" expanded="true" />
-                <element signature="e#2298#2299#0" expanded="true" />
-                <element signature="e#2354#2355#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/TreeSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1056">
-              <caret line="351" lean-forward="true" selection-start-line="351" selection-end-line="351" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/week04/Closest.java">
+        <entry file="file://$PROJECT_DIR$/src/week05/ChangeDP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="118" column="33" selection-start-line="118" selection-start-column="32" selection-end-line="118" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1730#1731#0" expanded="true" />
-                <element signature="e#1777#1778#0" expanded="true" />
-                <element signature="e#1534#1535#0" expanded="true" />
-                <element signature="e#1590#1591#0" expanded="true" />
-                <element signature="e#1724#1725#0" expanded="true" />
-                <element signature="e#1780#1781#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week04/Inversions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Long.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25364">
-              <caret line="1556" column="22" selection-start-line="1556" selection-start-column="22" selection-end-line="1556" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Double.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+            <state relative-caret-position="278">
+              <caret line="19" column="71" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -229,6 +144,8 @@
         <option value="$PROJECT_DIR$/src/week04/Inversions.java" />
         <option value="$PROJECT_DIR$/src/week04/PointsAndSegments.java" />
         <option value="$PROJECT_DIR$/src/week04/Closest.java" />
+        <option value="$PROJECT_DIR$/src/week05/changeDP.java" />
+        <option value="$PROJECT_DIR$/src/week05/ChangeDP.java" />
       </list>
     </option>
   </component>
@@ -238,7 +155,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="65" />
     <option name="y" value="-4" />
     <option name="width" value="1301" />
@@ -252,7 +169,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,19 +186,19 @@
               <item name="Course-era" type="b2602c69:ProjectViewProjectNode" />
               <item name="Course-era" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="week04" type="462c0819:PsiDirectoryNode" />
+              <item name="week05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577902058086" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578142439425" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -302,13 +219,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Closest">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week04.BinarySearch" />
+  <component name="RunManager" selected="Application.ChangeDP">
+    <configuration name="ChangeDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week05.ChangeDP" />
       <module name="Course-era" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week04.*" />
+          <option name="PATTERN" value="week05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -369,19 +286,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.MajorityElement" />
       <item itemvalue="Application.Closest" />
       <item itemvalue="Application.Inversions" />
       <item itemvalue="Application.PointsAndSegments" />
+      <item itemvalue="Application.ChangeDP" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChangeDP" />
         <item itemvalue="Application.Closest" />
         <item itemvalue="Application.PointsAndSegments" />
         <item itemvalue="Application.Inversions" />
         <item itemvalue="Application.MajorityElement" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -404,18 +321,19 @@
       <workItem from="1577117334209" duration="7003000" />
       <workItem from="1577527460833" duration="8158000" />
       <workItem from="1577607901386" duration="11131000" />
-      <workItem from="1577777841310" duration="11402000" />
+      <workItem from="1577777841310" duration="11679000" />
+      <workItem from="1578137820259" duration="5540000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76806000" />
+    <option name="totallyTimeSpent" value="82623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24166666" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20454545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -424,14 +342,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39095315" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.69628435" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4911147" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.7350565" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5638126" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5636071" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -580,6 +498,18 @@
           <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week05/ChangeDP.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week05/ChangeDP.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -668,19 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AlgorithmsAndDs/week01/MaxPairwiseProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#getMaxPairwiseProduct#0;class#MaxPairwiseProduct#0" />
-            <element signature="method#main#0;class#MaxPairwiseProduct#0" />
-            <element signature="class#FastScanner#0;class#MaxPairwiseProduct#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week03/Change.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -750,16 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week04/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week04/MajorityElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
@@ -767,6 +674,26 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week04/PointsAndSegments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="44" />
+          <folding>
+            <element signature="e#2119#2120#0" expanded="true" />
+            <element signature="e#2175#2176#0" expanded="true" />
+            <element signature="e#2298#2299#0" expanded="true" />
+            <element signature="e#2354#2355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5168">
+          <caret line="351" selection-start-line="351" selection-end-line="351" />
         </state>
       </provider>
     </entry>
@@ -791,39 +718,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="351" lean-forward="true" selection-start-line="351" selection-end-line="351" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week04/PointsAndSegments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="44" />
-          <folding>
-            <element signature="e#2119#2120#0" expanded="true" />
-            <element signature="e#2175#2176#0" expanded="true" />
-            <element signature="e#2298#2299#0" expanded="true" />
-            <element signature="e#2354#2355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week04/Closest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="118" column="33" selection-start-line="118" selection-start-column="32" selection-end-line="118" selection-end-column="33" />
+        <state relative-caret-position="227">
+          <caret line="165" column="23" selection-start-line="165" selection-start-column="20" selection-end-line="165" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1730#1731#0" expanded="true" />
             <element signature="e#1777#1778#0" expanded="true" />
-            <element signature="e#1534#1535#0" expanded="true" />
-            <element signature="e#1590#1591#0" expanded="true" />
-            <element signature="e#1724#1725#0" expanded="true" />
-            <element signature="e#1780#1781#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week04/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AlgorithmsAndDs/week01/MaxPairwiseProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getMaxPairwiseProduct#0;class#MaxPairwiseProduct#0" />
+            <element signature="method#main#0;class#MaxPairwiseProduct#0" />
+            <element signature="class#FastScanner#0;class#MaxPairwiseProduct#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week05/ChangeDP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="19" column="71" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="71" />
         </state>
       </provider>
     </entry>
