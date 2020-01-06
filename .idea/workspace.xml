@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83bd2087-0f16-42dd-a430-ea64d2bf5d51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week05/PrimitiveCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week05/EditDistance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course-era/week05/ChangeDP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Course-era/week05/ChangeDP.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RunManager" selected="Application.PrimitiveCalculator">
+  <component name="RunManager" selected="Application.EditDistance">
     <configuration name="ChangeDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week05.ChangeDP" />
       <module name="Course-era" />
@@ -85,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week04.Inversions" />
+    <configuration name="EditDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week05.EditDistance" />
       <module name="Course-era" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week04.*" />
+          <option name="PATTERN" value="week05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,18 +124,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Closest" />
-      <item itemvalue="Application.Inversions" />
       <item itemvalue="Application.PointsAndSegments" />
       <item itemvalue="Application.ChangeDP" />
       <item itemvalue="Application.PrimitiveCalculator" />
+      <item itemvalue="Application.EditDistance" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EditDistance" />
         <item itemvalue="Application.PrimitiveCalculator" />
         <item itemvalue="Application.ChangeDP" />
         <item itemvalue="Application.Closest" />
         <item itemvalue="Application.PointsAndSegments" />
-        <item itemvalue="Application.Inversions" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +175,8 @@
       <workItem from="1578229947748" duration="107000" />
       <workItem from="1578230275521" duration="8133000" />
       <workItem from="1578245940395" duration="93000" />
-      <workItem from="1578246095845" duration="3440000" />
+      <workItem from="1578246095845" duration="3857000" />
+      <workItem from="1578327022233" duration="4026000" />
     </task>
     <servers />
   </component>
@@ -190,42 +189,42 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state width="497" height="444" key="DebuggerActiveHint" timestamp="1578248284930">
+    <state width="505" height="444" key="DebuggerActiveHint" timestamp="1578329679475">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="497" height="444" key="DebuggerActiveHint/0.24.1366.744@0.24.1366.744" timestamp="1578248284930" />
-    <state width="1320" height="209" key="GridCell.Tab.0.bottom" timestamp="1578249694238">
+    <state width="505" height="444" key="DebuggerActiveHint/0.24.1366.744@0.24.1366.744" timestamp="1578329679475" />
+    <state width="1320" height="487" key="GridCell.Tab.0.bottom" timestamp="1578331096599">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="209" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1578249694238" />
-    <state width="1320" height="209" key="GridCell.Tab.0.center" timestamp="1578249694238">
+    <state width="1320" height="487" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1578331096599" />
+    <state width="1320" height="487" key="GridCell.Tab.0.center" timestamp="1578331096598">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="209" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1578249694238" />
-    <state width="1320" height="209" key="GridCell.Tab.0.left" timestamp="1578249694237">
+    <state width="1320" height="487" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1578331096598" />
+    <state width="1320" height="487" key="GridCell.Tab.0.left" timestamp="1578331096598">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="209" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1578249694237" />
-    <state width="1320" height="209" key="GridCell.Tab.0.right" timestamp="1578249694238">
+    <state width="1320" height="487" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1578331096598" />
+    <state width="1320" height="487" key="GridCell.Tab.0.right" timestamp="1578331096598">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="209" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1578249694238" />
-    <state width="1320" height="329" key="GridCell.Tab.1.bottom" timestamp="1578249664417">
+    <state width="1320" height="487" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1578331096598" />
+    <state width="1320" height="487" key="GridCell.Tab.1.bottom" timestamp="1578331096600">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="329" key="GridCell.Tab.1.bottom/0.24.1366.744@0.24.1366.744" timestamp="1578249664417" />
-    <state width="1320" height="329" key="GridCell.Tab.1.center" timestamp="1578249664417">
+    <state width="1320" height="487" key="GridCell.Tab.1.bottom/0.24.1366.744@0.24.1366.744" timestamp="1578331096600" />
+    <state width="1320" height="487" key="GridCell.Tab.1.center" timestamp="1578331096599">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="329" key="GridCell.Tab.1.center/0.24.1366.744@0.24.1366.744" timestamp="1578249664417" />
-    <state width="1320" height="329" key="GridCell.Tab.1.left" timestamp="1578249664416">
+    <state width="1320" height="487" key="GridCell.Tab.1.center/0.24.1366.744@0.24.1366.744" timestamp="1578331096599" />
+    <state width="1320" height="487" key="GridCell.Tab.1.left" timestamp="1578331096599">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="329" key="GridCell.Tab.1.left/0.24.1366.744@0.24.1366.744" timestamp="1578249664416" />
-    <state width="1320" height="329" key="GridCell.Tab.1.right" timestamp="1578249664417">
+    <state width="1320" height="487" key="GridCell.Tab.1.left/0.24.1366.744@0.24.1366.744" timestamp="1578331096599" />
+    <state width="1320" height="487" key="GridCell.Tab.1.right" timestamp="1578331096600">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="329" key="GridCell.Tab.1.right/0.24.1366.744@0.24.1366.744" timestamp="1578249664417" />
+    <state width="1320" height="487" key="GridCell.Tab.1.right/0.24.1366.744@0.24.1366.744" timestamp="1578331096600" />
     <state width="1320" height="195" key="GridCell.Tab.2.bottom" timestamp="1578241083090">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
@@ -349,6 +348,11 @@
           <url>file://$PROJECT_DIR$/src/week04/Closest.java</url>
           <line>103</line>
           <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week05/PrimitiveCalculator.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
