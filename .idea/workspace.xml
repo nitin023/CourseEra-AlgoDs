@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83bd2087-0f16-42dd-a430-ea64d2bf5d51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week05/EditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week05/LCS2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course-era/week05/EditDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Course-era/week05/EditDistance.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RunManager" selected="Application.EditDistance">
+  <component name="RunManager" selected="Application.LCS2">
     <configuration name="ChangeDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week05.ChangeDP" />
       <module name="Course-era" />
@@ -96,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointsAndSegments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week04.PointsAndSegments" />
+    <configuration name="LCS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week05.LCS2" />
       <module name="Course-era" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week04.*" />
+          <option name="PATTERN" value="week05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,18 +125,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Closest" />
-      <item itemvalue="Application.PointsAndSegments" />
       <item itemvalue="Application.ChangeDP" />
       <item itemvalue="Application.PrimitiveCalculator" />
       <item itemvalue="Application.EditDistance" />
+      <item itemvalue="Application.LCS2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LCS2" />
         <item itemvalue="Application.EditDistance" />
         <item itemvalue="Application.PrimitiveCalculator" />
         <item itemvalue="Application.ChangeDP" />
         <item itemvalue="Application.Closest" />
-        <item itemvalue="Application.PointsAndSegments" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +177,7 @@
       <workItem from="1578230275521" duration="8133000" />
       <workItem from="1578245940395" duration="93000" />
       <workItem from="1578246095845" duration="3857000" />
-      <workItem from="1578327022233" duration="4026000" />
+      <workItem from="1578327022233" duration="13005000" />
     </task>
     <servers />
   </component>
@@ -189,42 +190,46 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state width="505" height="444" key="DebuggerActiveHint" timestamp="1578329679475">
+    <state x="748" y="177" key="#xdebugger.evaluate" timestamp="1578415946793">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="505" height="444" key="DebuggerActiveHint/0.24.1366.744@0.24.1366.744" timestamp="1578329679475" />
-    <state width="1320" height="487" key="GridCell.Tab.0.bottom" timestamp="1578331096599">
+    <state x="748" y="177" key="#xdebugger.evaluate/0.24.1366.744@0.24.1366.744" timestamp="1578415946793" />
+    <state width="505" height="444" key="DebuggerActiveHint" timestamp="1578498607313">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="487" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1578331096599" />
-    <state width="1320" height="487" key="GridCell.Tab.0.center" timestamp="1578331096598">
+    <state width="505" height="444" key="DebuggerActiveHint/0.24.1366.744@0.24.1366.744" timestamp="1578498607313" />
+    <state width="1320" height="168" key="GridCell.Tab.0.bottom" timestamp="1578499123034">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="487" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1578331096598" />
-    <state width="1320" height="487" key="GridCell.Tab.0.left" timestamp="1578331096598">
+    <state width="1320" height="168" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1578499123034" />
+    <state width="1320" height="168" key="GridCell.Tab.0.center" timestamp="1578499123033">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="487" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1578331096598" />
-    <state width="1320" height="487" key="GridCell.Tab.0.right" timestamp="1578331096598">
+    <state width="1320" height="168" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1578499123033" />
+    <state width="1320" height="168" key="GridCell.Tab.0.left" timestamp="1578499123032">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="487" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1578331096598" />
-    <state width="1320" height="487" key="GridCell.Tab.1.bottom" timestamp="1578331096600">
+    <state width="1320" height="168" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1578499123032" />
+    <state width="1320" height="168" key="GridCell.Tab.0.right" timestamp="1578499123033">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="487" key="GridCell.Tab.1.bottom/0.24.1366.744@0.24.1366.744" timestamp="1578331096600" />
-    <state width="1320" height="487" key="GridCell.Tab.1.center" timestamp="1578331096599">
+    <state width="1320" height="168" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1578499123033" />
+    <state width="1320" height="210" key="GridCell.Tab.1.bottom" timestamp="1578498658187">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="487" key="GridCell.Tab.1.center/0.24.1366.744@0.24.1366.744" timestamp="1578331096599" />
-    <state width="1320" height="487" key="GridCell.Tab.1.left" timestamp="1578331096599">
+    <state width="1320" height="210" key="GridCell.Tab.1.bottom/0.24.1366.744@0.24.1366.744" timestamp="1578498658187" />
+    <state width="1320" height="210" key="GridCell.Tab.1.center" timestamp="1578498658186">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="487" key="GridCell.Tab.1.left/0.24.1366.744@0.24.1366.744" timestamp="1578331096599" />
-    <state width="1320" height="487" key="GridCell.Tab.1.right" timestamp="1578331096600">
+    <state width="1320" height="210" key="GridCell.Tab.1.center/0.24.1366.744@0.24.1366.744" timestamp="1578498658186" />
+    <state width="1320" height="210" key="GridCell.Tab.1.left" timestamp="1578498658186">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state width="1320" height="487" key="GridCell.Tab.1.right/0.24.1366.744@0.24.1366.744" timestamp="1578331096600" />
+    <state width="1320" height="210" key="GridCell.Tab.1.left/0.24.1366.744@0.24.1366.744" timestamp="1578498658186" />
+    <state width="1320" height="210" key="GridCell.Tab.1.right" timestamp="1578498658186">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="1320" height="210" key="GridCell.Tab.1.right/0.24.1366.744@0.24.1366.744" timestamp="1578498658186" />
     <state width="1320" height="195" key="GridCell.Tab.2.bottom" timestamp="1578241083090">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
@@ -350,61 +355,17 @@
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/week05/PrimitiveCalculator.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="72" />
+          <url>file://$PROJECT_DIR$/src/week05/LCS2.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/week05/LCS2.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="82" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>n - mid</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>P[i]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>right/2</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>me.getValue()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>ba.compareTo(ab)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>ab.compareTo(ba)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>maxPossibleDistanceInOneFill</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>distanceSet.contains(maxPossibleDistanceInOneFill)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>funcPair.getValue().get(0)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
   <component name="masterDetails">
     <states>
